@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "young-art-8212",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e4df6525-cb1d-482a-990e-62e8c6eaa5ee",
+      "database_name": "polished-tree-d278-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
